@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        ".sequelizerc": "javascript",
+        "stdlib.h": "c",
+        "vector.h": "c"
+    }
+}
